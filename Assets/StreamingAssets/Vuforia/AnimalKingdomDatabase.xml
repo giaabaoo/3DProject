@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Frog" size="200.000000 150.000000" />
+    <ImageTarget name="Artic" size="200.000000 150.000000" />
+    <ImageTarget name="Rhino" size="200.000000 150.000000" />
+    <ImageTarget name="Sea" size="200.000000 150.000000" />
+    <ImageTarget name="Shark" size="200.000000 150.000000" />
+    <ImageTarget name="Whale" size="200.000000 150.000000" />
+    <ImageTarget name="Tiger" size="200.000000 150.000000" />
+    <ImageTarget name="Robot" size="200.000000 266.666656" />
+    <ImageTarget name="Pogba" size="200.000000 174.023438" />
+    <ImageTarget name="Lacazette" size="200.000000 150.000000" />
+    <ImageTarget name="Coutinho" size="200.000000 150.000000" />
+    <ImageTarget name="Bale" size="200.000000 150.000000" />
+    <ImageTarget name="Arsenal" size="200.000000 150.000000" />
+  </Tracking>
+</QCARConfig>
